@@ -1,6 +1,6 @@
 # 🚀 API is easy
 
-Welcome to the API Mastery Course repository! Embark on an exciting journey from API novice to expert, mastering everything from basic concepts to advanced techniques in API development and usage.
+Welcome to the API is easy repository! Embark on an exciting journey from API novice to expert, mastering everything from basic concepts to advanced techniques in API development and usage.
 
 ## 📚 Course Overview 
 
