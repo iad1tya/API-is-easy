@@ -4,7 +4,7 @@ Welcome to the API is easy repository! Embark on an exciting journey from API no
 
 ## 📚 Course Overview 
 
-Our API Mastery Course is structured into six action-packed modules:
+Our API is easy is structured into six action-packed modules:
 
 1. **Introduction to APIs** 🌟
 2. **Getting Started with Postman** 🛠️
