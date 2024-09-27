@@ -94,18 +94,6 @@ We welcome contributions from API enthusiasts like you! Here's how you can make 
 
 Check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
-## 🌟 Show Your Support
-
-If you're finding this course helpful, consider giving it a star on GitHub! It helps others discover the project and motivates us to keep improving.
-
-[![GitHub stars](https://img.shields.io/github/stars/ad1tya/API-is-easy.svg?style=social&label=Star)](https://github.com/ad1tya/API-is-easy)
-
-## 📊 Project Stats 
-
-![GitHub contributors](https://img.shields.io/github/contributors/ad1tya/API-is-easy)
-![GitHub last commit](https://img.shields.io/github/last-commit/ad1tya/API-is-easy)
-![GitHub issues](https://img.shields.io/github/issues/ad1tya/API-is-easy)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
