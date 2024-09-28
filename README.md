@@ -54,7 +54,7 @@ To embark on your API mastery journey:
 
 2. Navigate to the project directory:
    ```
-   cd api-mastery-course
+   cd API-is-easy
    ```
 
 3. Install dependencies:
